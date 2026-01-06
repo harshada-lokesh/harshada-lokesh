@@ -17,7 +17,7 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 
 ## 🚀 Featured Projects
 
-### [🌱 Smart Crop Health Monitoring](link-to-your-repo)
+### [🌱 Smart Crop Health Monitoring](https://github.com/harshada-lokesh/smart-crop-health-monitoring.git)
 *A hybrid IoT and Deep Learning system for precision agriculture.*
 - **Tech:** ESP32, TensorFlow, CNN, YOLOv11, ROS, Python.
 - **Achievement:** Published in IEEE ICCSCE 2025.
