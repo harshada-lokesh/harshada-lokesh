@@ -19,13 +19,13 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 
 ### [🌱 Smart Crop Health Monitoring](link-to-your-repo)
 *A hybrid IoT and Deep Learning system for precision agriculture.*
-- **Tech:** ESP32, TensorFlow, CNN, Python.
+- **Tech:** ESP32, TensorFlow, CNN, YOLOv11, ROS, Python.
 - **Achievement:** Published in IEEE ICCSCE 2025.
 - [View Project Repo →](link-to-your-repo)
 
 ### [🚛 Sci-Bot: Autonomous Waste Delivery](link-to-your-repo)
 *An autonomous vehicle designed for transporting hazardous materials.*
-- **Tech:** ROS 2, Path Planning, Bluetooth Control.
+- **Tech:** Arduino, Path Planning, Bluetooth Control.
 - **Highlight:** Developed a custom mobile app for safe remote command deployment.
 - [View Project Repo →](link-to-your-repo)
 
