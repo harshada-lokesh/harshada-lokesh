@@ -18,13 +18,13 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 ## 🚀 Featured Projects
 
 ### [🤖 SortiBot: Robotic Waste Sorting](https://github.com/Mansi-1120/sortibot-simulation.git)
-*A hybrid IoT and Deep Learning system for precision agriculture.*
+*Vision-Guided Manipulation in ROS 2 & Gazebo Designed a robotic simulation for automated waste segregation using a custom 4-DOF robotic arm.*
 - **Tech:** ROS 2 Humble, Gazebo, TensorFlow Lite, URDF Modeling, Python.
 - **Highlight:** Developed a modular perception-to-action pipeline capable of real-time material classification and trajectory planning.
 - [View Project Repo →](https://github.com/Mansi-1120/sortibot-simulation.git)
 
 ### [🌱 Smart Crop Health Monitoring](https://github.com/harshada-lokesh/smart-crop-health-monitoring.git)
-*Vision-Guided Manipulation in ROS 2 & Gazebo Designed a robotic simulation for automated waste segregation using a custom 4-DOF robotic arm.*
+*A hybrid IoT and Deep Learning system for precision agriculture.*
 - **Tech:** ESP32, TensorFlow, CNN, YOLOv11, ROS, Python.
 - **Achievement:** Published in IEEE ICCSCE 2025.
 - [View Project Repo →](https://github.com/harshada-lokesh/smart-crop-health-monitoring.git)
