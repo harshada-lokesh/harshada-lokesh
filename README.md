@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshada Lokesh
 
 ### 🤖 Robotics & Autonomous Systems Student | Boston University
-I am a Master’s student specializing in the intersection of **AI, Cloud Robotics, and Embedded Systems**. I am passionate about building intelligent machines that solve real-world problems, from precision agriculture to autonomous logistics.
+I am a Master’s student specializing in the intersection of **AI, Robotics, and Embedded Systems**. I am passionate about building intelligent machines that solve real-world problems, from precision agriculture to autonomous logistics.
 
 ---
 
