@@ -21,7 +21,7 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 *A hybrid IoT and Deep Learning system for precision agriculture.*
 - **Tech:** ESP32, TensorFlow, CNN, YOLOv11, ROS, Python.
 - **Achievement:** Published in IEEE ICCSCE 2025.
-- [View Project Repo →](link-to-your-repo)
+- [View Project Repo →](https://github.com/harshada-lokesh/smart-crop-health-monitoring.git)
 
 ### [🚛 Sci-Bot: Autonomous Waste Delivery](link-to-your-repo)
 *An autonomous vehicle designed for transporting hazardous materials.*
