@@ -40,14 +40,11 @@ I am a Master’s student specializing in the intersection of **AI, Cloud Roboti
 
 ## 📬 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/harshadalokesh](https://www.linkedin.com/in/harshadalokesh)
-- **Email:** harshadalokesh@gmail.com
 - **Location:** Boston, MA
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
+
 
 <!--
 **harshada-lokesh/harshada-lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
