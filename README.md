@@ -37,7 +37,7 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 
 ### [🏠 House Prices Prediction - Kaggle Competition](https://github.com/harshada-lokesh/house-prices-prediction-model.git)
 *Predictive Modeling for Real Estate Valuation Developed a high-performance machine learning pipeline to predict residential home prices using advanced regression techniques on the Ames Housing dataset.*
-- **Tech:**Python, Scikit-Learn, Pandas, NumPy, DecisionTreeRegressor, and RandomForestRegressor.
+- **Tech:** Python, Scikit-Learn, Pandas, NumPy, DecisionTreeRegressor, and RandomForestRegressor.
 - **Highlight:** Optimized a Random Forest Regressor to handle 79 explanatory variables, implementing custom feature engineering and handling of missing data to minimize RMSE..
 - [View Project Repo →](https://github.com/harshada-lokesh/house-prices-prediction-model.git)
 
