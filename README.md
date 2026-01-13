@@ -37,9 +37,15 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 
 ### [🏠 House Prices Prediction - Kaggle Competition](https://github.com/harshada-lokesh/house-prices-prediction-model.git)
 *Predictive Modeling for Real Estate Valuation Developed a high-performance machine learning pipeline to predict residential home prices using advanced regression techniques on the Ames Housing dataset.*
-- **Tech:** Python, Scikit-Learn, Pandas, NumPy, DecisionTreeRegressor, and RandomForestRegressor.
-- **Highlight:** Optimized a Random Forest Regressor to handle 79 explanatory variables, implementing custom feature engineering and handling of missing data to minimize RMSE..
+- **Tech:** Python, Scikit-Learn, Pandas, NumPy, DecisionTreeRegressor, RandomForestRegressor.
+- **Highlight:** Optimized a Random Forest Regressor to handle 79 explanatory variables, implementing custom feature engineering and handling of missing data to minimize RMSE.
 - [View Project Repo →](https://github.com/harshada-lokesh/house-prices-prediction-model.git)
+
+### [📧 Email Spam Classification](https://github.com/harshada-lokesh/email-spam-classifier.git)
+*Text Classification & NLP Pipeline Developed a binary classification model to detect spam emails using a pre-processed word-count matrix of 3,000+ features.*
+- **Tech:** Python, Scikit-Learn, Logistic Regression, Pandas.
+- **Highlight:** Optimized a Logistic Regression model on a high-dimensional dataset of 5,172 emails, achieving high precision to minimize false positives in legitimate mail.
+- [View Project Repo →](https://github.com/harshada-lokesh/email-spam-classifier.git)
 
 ---
 
