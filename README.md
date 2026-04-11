@@ -7,11 +7,12 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 
 ## 🛠 Skills & Toolkit
 
-- **Robotics:** ROS 2 (Humble/Jazzy), Gazebo, RViz, SLAM, Path Planning, Nav2
-- **AI/Machine Learning:** CNNs, YOLO, TensorFlow, Keras, Scikit-learn
-- **Cloud & IoT:** AWS (Cloud Robotics), ESP32, Arduino, Raspberry Pi
-- **Languages:** Python (Fluent), C++, MATLAB
-- **Design:** AutoCAD, Onshape, 3D Printing (FFF/SLA)
+- **Robotics:** ROS 2 (Humble), Gazebo, RViz
+- **Robotics Theory:** Forward/Inverse Kinematics, Jacobian Analysis, Nonlinear Control
+- **AI/Machine Learning:** CNNs, YOLO, Scikit-learn
+- **Hardware:** ESP32, Arduino, Sensors
+- **Languages:** Python
+- **Design:** Onshape, 3D Printing (FFF/SLA)
 
 ---
 
