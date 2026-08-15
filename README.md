@@ -12,7 +12,7 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 - **AI/Machine Learning:** CNNs, YOLO, Scikit-learn
 - **Hardware:** ESP32, Arduino, Sensors
 - **Languages:** Python
-- **Design:** Onshape, 3D Printing (FFF/SLA)
+- **Design:** Onshape, Cura, Bambu Studio, FFF & SLA 3D Printing
 
 ---
 
@@ -49,6 +49,28 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 - **Highlight:** Optimized a Logistic Regression model on a high-dimensional dataset of 5,172 emails, achieving high precision to minimize false positives in legitimate mail.
 - [View Project Repo →](https://github.com/harshada-lokesh/email-spam-classifier.git)
 
+---
+
+## 🖨️ Additive Manufacturing & CAD Projects
+
+### [🐢 Flying Turtle: Kinematic FFF Mechanism](https://github.com/harshada-lokesh/flying-turtle-3d-print)
+*3D Printed Kinematic Assembly & Thermal Slicing Parameter Optimization.*
+- **Tech:** Creality Ender-3, UltiMaker Cura, FFF Printing, PLA.
+- **Highlight:** Fabricated a 14-component dynamic mechanism. Optimized slicing settings (Raft adhesion, bed temperature scaling down to 52°C) to eliminate joint thermal fusion and ensure smooth linkage movement.
+- [View Project Repo →](https://github.com/harshada-lokesh/flying-turtle-3d-print)
+
+### [🌸 Sphere of Petals: SLA Precision Geometry](https://github.com/harshada-lokesh/sphere-of-petals-sla)
+*Iterative Design & Wall Thickness Optimization for Stereolithography (SLA).*
+- **Tech:** FormLabs SLA Printer, Clear Resin, CAD.
+- **Highlight:** Designed a complex $4 \times 4 \times 4\text{ cm}^3$ hollow sphere with a symmetrical floral cutout pattern. Resolved resin structural fragility by scaling wall thickness from $1\text{ mm}$ to $3\text{ mm}$, enabling clean post-processing support removal.
+- [View Project Repo →](https://github.com/harshada-lokesh/sphere-of-petals)
+
+### [🌀 3D-Printed Anemometer & Wind Vane System](https://github.com/harshada-lokesh/3d-printed-anemometer)
+*Low-Friction Weather Instrument Assembly.*
+- **Tech:** OnShape CAD, Bambu Studio, Bambu Lab 3D Printer.
+- **Highlight:** Designed a 12-part parametric assembly in OnShape featuring coaxial bearing seats, custom wind-capture cups, and an aerodynamically balanced wind vane for low-friction rotation.
+- [View Project Repo →](https://github.com/harshada-lokesh/anemometer)
+- 
 ---
 
 ## 📈 What I'm Working On Now
