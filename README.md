@@ -70,7 +70,7 @@ I am a Master’s student specializing in the intersection of **AI, Robotics, an
 - **Tech:** OnShape CAD, Bambu Studio, Bambu Lab 3D Printer.
 - **Highlight:** Designed a 12-part parametric assembly in OnShape featuring coaxial bearing seats, custom wind-capture cups, and an aerodynamically balanced wind vane for low-friction rotation.
 - [View Project Repo →](https://github.com/harshada-lokesh/anemometer)
-- 
+  
 ---
 
 ## 📈 What I'm Working On Now
